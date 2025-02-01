@@ -1,7 +1,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaYuki&hide=java,html,ShaderLab&theme=radical&line_height=27" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyotaYuki&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamzShima&hide=java,html,ShaderLab&theme=radical&line_height=27" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyotaYuki&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </p> 
 
 <!--
